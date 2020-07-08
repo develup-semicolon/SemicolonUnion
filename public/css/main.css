@@ -10,7 +10,7 @@ height:700px;
 .con{
   clip-path: ellipse(110% 49% at 50% 40%);
 
-  background: url("header0.jpg");
+  background: url("../../header0.jpg");
 background-repeat : no-repeat;
 background-size : cover;
 
